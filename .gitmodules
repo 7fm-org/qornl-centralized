@@ -1,0 +1,24 @@
+[submodule "qornl"]
+	path = qornl
+	url = https://github.com/7fm-org/qornl.git
+[submodule "qornl-bridge"]
+	path = qornl-bridge
+	url = https://github.com/7fm-org/qornl-bridge.git
+[submodule "qornl-clients"]
+	path = qornl-clients
+	url = https://github.com/7fm-org/qornl-clients.git
+[submodule "qornl-contract"]
+	path = qornl-contract
+	url = https://github.com/7fm-org/qornl-contract.git
+[submodule "qornl-sdk-core"]
+	path = qornl-sdk-core
+	url = https://github.com/7fm-org/qornl-sdk-core.git
+[submodule "qornl-sdks"]
+	path = qornl-sdks
+	url = https://github.com/7fm-org/qornl-sdks.git
+[submodule "qornl-stack"]
+	path = qornl-stack
+	url = https://github.com/7fm-org/qornl-stack.git
+[submodule "qornl-workers"]
+	path = qornl-workers
+	url = https://github.com/7fm-org/qornl-workers.git
